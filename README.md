@@ -1,3 +1,3 @@
 # website
 its website
-https://bvfreak.github.io/website/
+https://bvfreak.github.io/rypnt/
